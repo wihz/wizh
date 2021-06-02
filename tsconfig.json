@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "UMD",
+		"moduleResolution": "Node",
+		"target": "es6",
+		"outDir": "dist",
+		"sourceMap": false,
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"declaration": true,
+		"typeRoots": ["types", "node_modules/@types"]
+	}
+}
